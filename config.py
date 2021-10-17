@@ -1,0 +1,5 @@
+TOKEN = "2090397551:AAHGWFTpVUqd3E04GbKMdf4Q7xcuE2YRTj0"
+my_id = "1207636767"
+channel_id = "-1001186906260"
+NOTSUB_MESSAGE = "Siz kanalga a'zo bo'lishingiz shart!!"
+hello_image_id = "AgACAgIAAxkBAAMDYWuzk13u4ybM5Z2jhbA-FrfxskQAApa0MRsy32BL-J8yBQzGr_sBAAMCAANzAAMhBA"
